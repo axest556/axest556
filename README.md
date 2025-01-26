@@ -25,7 +25,9 @@
 
 - ⛑️ With funding from Google, we've been developing an AI-powered mobile app for the Swedish Red Cross to facilitate the integration of 🇺🇦 Ukrainian refugees coming to 🇸🇪 Sweden.
 
-- 👀 Check out the project below!
+- 🚀 The AI Sweden project evolved into **Helpr**, an early-stage startup I co-founded, where I serve as the CPO. Helpr applied to the **Y Combinator Winter Batch 2025**.
+
+- 👀 Check out the project, live presentation and program recap video below!
 
 <!--- AI & YouTube Icons --->
 <div align='center'>
@@ -38,8 +40,32 @@
   <a href="https://www.youtube.com/watch?v=qFWhLo0sWfQ&t=3642s" target="_blank">
     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" alt="YouTube"/>
   </a>
+
+  <!-- Second Icon (YouTube) -->
+  <a href="https://www.youtube.com/watch?v=tckwI1Cfy9E" target="_blank">
+    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" alt="YouTube"/>
+  </a>
 </div>
 
+<!--- Sub Header --->
+<h2 align="center">🎥 Showcasing My MVP Projects</h2>
+
+- 🎯 **Helpr - MVP Demo (YC Application W25)**: A demonstration of Helpr's MVP, showcasing the product developed from the AI Sweden project.  
+  [Watch the demo here!](https://www.youtube.com/watch?v=AP8cciWThqo)
+
+- 🛡️ **panoraGuard Product Pitch**: An MVP demo of a security surveillance system created in collaboration with **AXIS Communications** as part of a major school project in the course "Software Engineering".  
+  [Watch the demo here!](https://www.youtube.com/watch?v=JkDI--DhFnU)
+
+- 👀 Check out my YouTube channel below to explore some exciting demos of the innovative projects I've been a part of!
+
+<div align='center'>
+  <a href="https://www.youtube.com/watch?v=AP8cciWThqo" target="_blank">
+    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" alt="YouTube"/>
+  </a>
+  <a href="https://www.youtube.com/watch?v=JkDI--DhFnU&t=70s" target="_blank">
+    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" alt="YouTube"/>
+  </a>
+</div>
 
 <!--- Sub Header --->
 <h2 align='center'>🛠️ Tools and Frameworks</h2>
